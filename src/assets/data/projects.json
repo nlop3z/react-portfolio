@@ -1,0 +1,35 @@
+[
+
+    {
+    "id": 1,
+    "name": "Budget Tracker",
+    "image": "https://raw.github.com/nlop3z/budget-tracker/master/assets/images/screenshot.JPG",
+    "github": "https://github.com/nlop3z/budget-tracker",
+    "deployedapp": "https://budget-tracker-nelly.herokuapp.com/",
+    "description": "Budget Tracker"
+    },
+    {
+    "id": 2,
+    "name": "Weather Dashboard",
+    "image": "https://raw.github.com/nlop3z/weather-dashboard/master/assets/images/weather-dashboard-screenshot.PNG",
+    "github": "https://github.com/nlop3z/weather-dashboard",
+    "deployedapp": "https://nlop3z.github.io/weather-dashboard/",
+    "description": "Weather Dashboard"
+    },
+    {
+    "id": 3,
+    "name": "Movie Finder",
+    "image": "https://raw.github.com/dbrockman28/movie-finder/main/assets/images/screenshot.PNG",
+    "github": "https://github.com/dbrockman28/movie-finder",
+    "deployedapp": "https://dbrockman28.github.io/movie-finder/",
+    "description": "Run Buddy"
+    },
+    {
+    "id": 4,
+    "name": "Note Taker",
+    "image": "https://raw.github.com/nlop3z/note-taker/master/public/assets/images/screenshot.PNG",
+    "github": "https://github.com/nlop3z/note-taker",
+    "deployedapp": "https://notetakernelly.herokuapp.com/notes",
+    "description": "Tech Blog"
+    }
+    ]
