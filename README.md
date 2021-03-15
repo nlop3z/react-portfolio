@@ -17,6 +17,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 https://github.com/nlop3z/react-portfolio
 
 ## URL Deployed Application:
+https://nlop3z.github.io/react-portfolio/
 
 ## Sreenshot of Nelly Lopez's portfolio
 
