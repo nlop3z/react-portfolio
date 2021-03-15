@@ -18,8 +18,7 @@ https://github.com/nlop3z/react-portfolio
 
 ## Sreenshot of Nelly Lopez's portfolio
 
-![This is a screenshot of Nelly Lopez's portfolio.](https://raw.githubusercontent.com/nlop3z/react-portfolio/main/src/assets/cover/cover-image.jpg)<br />)
-https://raw.github.com/nlop3z/budget-tracker/master/assets/images/screenshot.JPG
+![This is a screenshot of Nelly Lopez's portfolio.](https://raw.github.com/nlop3z/react-portfolio/master/src/assets/cover/mainpage.jpg?raw=true)<br />)
 
 ## Available Scripts
 
