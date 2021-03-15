@@ -1,6 +1,6 @@
 {
   "homepage": "http://nlopez.github.io/react-portfolio",
-  "name": "react-profile",
+  "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
