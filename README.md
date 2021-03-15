@@ -9,7 +9,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * JavaScript
 * React
 * Bootstrap
-* Node.js
+* CSS
+* HTML
+* Handlebars
 
 ## URL GitHub repository
 https://github.com/nlop3z/react-portfolio
