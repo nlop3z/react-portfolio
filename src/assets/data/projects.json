@@ -31,5 +31,13 @@
     "github": "https://github.com/nlop3z/note-taker",
     "deployedapp": "https://notetakernelly.herokuapp.com/notes",
     "description": "Tech Blog"
-    }
+    },
+    {
+        "id": 5,
+        "name": "Hotel-Hotel",
+        "image": "https://raw.githubusercontent.com/axeliono/hotel-hotel/develop/assets/images/screenshot.JPG?token=ARAPACOH342HZKTGAM6VTM3AOO7I2",
+        "github": "https://github.com/axeliono/hotel-hotel",
+        "deployedapp": "/",
+        "description": "Hotel-Hotel"
+        }
     ]
